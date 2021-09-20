@@ -6,8 +6,7 @@ Dan module harus lengkap biar bisa run otomatis
 ```
 
 ## `Deploy"
-[![Deploy](https://www.heroku.com/deploy/?template=https://github.com/HanifFarhanN/scbotdm/)
-
+https://heroku.com/deploy?template=https://github.com/HanifFarhanN/scbotdm/
 
 ## CARA INSTALL
 
